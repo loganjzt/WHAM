@@ -1,4 +1,4 @@
-// WHAM code checked on Oct11 2016
+// 1D wham first version in Git, Apr 24 2017
 
 #define LBFGS_FLOAT 64
 #include <stdio.h>
