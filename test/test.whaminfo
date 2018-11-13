@@ -1,0 +1,5 @@
+#nsim        temperature 
+2	300.000000
+# srno   nskip   ndata  mu   Kappa  Nstar  logebfk filename 
+1	100	200	0.100000	1.000000	33.000000	          0.000000	test1.dat
+2	100	200	0.100000	1.000000	13.000000	          0.000000	test2.dat
